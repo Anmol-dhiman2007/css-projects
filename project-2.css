@@ -1,0 +1,12 @@
+*{margin: 0;
+  padding: 0;}
+#box1{background-color: rgba(45, 45, 157,0.6);}
+#box2{
+    height: 500px;
+    background-color: blueviolet;
+    color: black;}
+#box3{
+   
+    background-image: url(./spidy.jpg);
+    height: 200px;
+    width: 400px;}
